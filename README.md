@@ -1,8 +1,8 @@
 # BlokChain Theory
 <hr>
-OS : Ubuntu 18.04
-Node : 8.10.0
-Npm : 6.9.0
+OS : Ubuntu 18.04<br>
+Node : 8.10.0<br>
+Npm : 6.9.0<br>
 
 install
 - Git
